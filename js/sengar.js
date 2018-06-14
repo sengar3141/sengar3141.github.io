@@ -27,12 +27,12 @@ var projects = {
 		'key': 'products'
 	},
 
-	'cognitiveablitykit': {
+	/*'cognitiveablitykit': {
 		'title': 'Cognitive Ability Kit',
 		'description': 'A kit to assess cognitive ability of children for the participants of gifted children project of University of Delhi',
 		'color': '#242424',
 		'key': 'products'
-	},
+	},*/
 
 
 	'gloop': {
