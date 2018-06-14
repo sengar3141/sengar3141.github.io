@@ -1,0 +1,187 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#landing {
+	height: 100vh;
+	background-color: #333333;
+	padding: 20vh 120px;
+}
+
+.green {
+	color: #99CC33;
+}
+
+.bg-green {
+	background-color: #99CC33;
+}
+
+.b--green {
+	border-color: #99CC33;
+}
+
+.landing-logo {
+	height: 250px;
+	margin-top: 100px;
+}
+
+.hidden {
+	display: none;
+}
+
+.active {
+	border-bottom: 2px #99CC33 solid;
+}
+
+.activeColor {
+	color: #99CC33;
+}
+
+.affix {
+	margin-top: 0 !important;
+    position: fixed;
+    top: 0;
+    z-index: 10000;
+}
+
+#navbar {
+	height: 170px;
+	width: 100%;
+	min-width: 1024px;
+	padding: 40px 120px;
+	background-color: white;
+}
+
+.navbar-top {
+	width: inherit;
+}
+
+.navbar-top img {
+	height: 60px;
+}
+
+.navbar-top div li {
+	width: 80px;
+	line-height: 60px;
+}
+
+.navbar-bottom {
+	width: inherit;
+}
+
+.navbar-bottom div li {
+	width: 80px;
+	line-height: 60px;
+}
+
+.work {
+
+}
+
+@media screen and (min-width: 1024px) {
+	.projects {
+		height: 400px;
+		padding: 0 120px;
+		margin-bottom: 20px;
+	}
+    .projects-image {
+	    width: 70%;
+		display: inline-block;
+		text-align: center;
+    }
+    .projects-text {
+		width: 30%;
+		display: inline-block;
+		padding-bottom: 30px;
+		vertical-align: bottom;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.projects {
+		padding: 0 120px;
+		margin-bottom: 20px;
+	}
+    .projects-image {
+		display: block;
+		text-align: center;
+    }
+    .projects-text {
+		display: block;
+		text-align: center;
+		padding-bottom: 30px;
+		vertical-align: bottom;
+	}
+}
+
+.projects img {
+	max-height: 400px;
+}
+
+.projects h2 {
+
+}
+
+#content {
+	
+}
+
+.cv {
+	min-width: 1024px;
+}
+
+.cv-header {
+	padding: 0 120px;
+	height: 250px;
+}
+
+.cv-header > div > img {
+	height: 250px;
+}
+
+.button {
+	width: 120px;
+}
+
+.contact {
+	min-height: 100vh;
+	margin-top: -170px;
+}
+
+.contact > div {
+	position: absolute;
+	top: 40%;
+	left: 170px;
+}
+
+/* CV */
+
+#cv-navbar {
+	height: 170px;
+	width: 100%;
+	min-width: 1024px;
+	padding: 40px 120px;
+	background-color: white;
+}
+
+/* PROJECT PAGES */
+
+.project-navbar {
+	height: 170px;
+	width: 100%;
+	min-width: 1024px;
+	padding: 40px 120px;
+	background-color: white;
+}
+
+.project-navbar img {
+	height: 60px;
+}
+
+.project-content {
+	padding: 0 120px;
+}
+
+.project-image {
+	line-height: 0;
+}
