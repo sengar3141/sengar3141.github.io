@@ -34,9 +34,17 @@ var projects = {
 		'key': 'products'
 	},
 
+
+	'gloop': {
+		'title': 'Gloop',
+		'description': 'Aoint colaboration with DUDIC and Tamana Foundation.',
+		'color': 'FFF',
+		'key': 'products'
+	},
+
 	'takhti': {
 		'title': 'Takhti',
-		'description': 'you get inspired by the amazing portfolios above. For more design portfolio inspirations, please visit bestfolios.com. We are curating and featuring the best designer portfolios.',
+		'description': 'Takhti provides an efficient infrastructural support solution for rural schools in India where we generally finds kids either seating on broken furniture or on ground because the furniture is either vandalized or not available at all.',
 		'color': '#CCCCCC',
 		'key': 'ideas'
 	},
