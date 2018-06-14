@@ -20,6 +20,13 @@ var projects = {
 		'key': 'uxui'
 	},
 
+	'nest': {
+		'title': 'Nest',
+		'description': 'The project proposes a range of furniture which will have an identity and form inspired by the endangered species of Indian birds. This projects intends to spark a dialogue and sensitivity towards their protection in the minds of the observers.',
+		'color': '#FFF',
+		'key': 'products'
+	},
+
 	'cognitiveablitykit': {
 		'title': 'Cognitive Ability Kit',
 		'description': 'A kit to assess cognitive ability of children for the participants of gifted children project of University of Delhi',
