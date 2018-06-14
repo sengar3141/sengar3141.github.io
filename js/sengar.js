@@ -37,7 +37,7 @@ var projects = {
 
 	'gloop': {
 		'title': 'Gloop',
-		'description': 'Aoint colaboration with DUDIC and Tamana Foundation.',
+		'description': 'A colaboration between DUDIC and Tamana Foundation to create furnture for hyperactive kids.',
 		'color': 'FFF',
 		'key': 'products'
 	},
@@ -64,7 +64,7 @@ var projects = {
 
 	'blackbox': {
 		'title': 'Black Box',
-		'description': 'A kit to assist Imfundo teach 7th to 8th standard children programing, electronics, robotics and gadetry.',
+		'description': 'A kit to assist Imfundo teach 7th to 8th standard children programming, electronics, robotics and gadetry.',
 		'color': '#FFF',
 		'key': 'products'
 	}
