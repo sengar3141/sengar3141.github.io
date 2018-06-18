@@ -27,14 +27,6 @@ var projects = {
 		'key': 'products'
 	},
 
-
-	'foodpassport': {
-		'title': 'Foodpassport',
-		'description': 'Food Passport is a platform to recommend heritage of food and history of the food which they are serving to people form generations.',
-		'color': '#F2F1EC',
-		'key': 'products'
-	},
-
 	/*'cognitiveablitykit': {
 		'title': 'Cognitive Ability Kit',
 		'description': 'A kit to assess cognitive ability of children for the participants of gifted children project of University of Delhi',
@@ -42,12 +34,6 @@ var projects = {
 		'key': 'products'
 	},*/
 
-	'ma': {
-		'title': 'Ma',
-		'description': 'Ma is a neonatal incubator designed for rural Indian hospitals,'
-		'color': 'FFF',
-		'key': 'products'
-	},
 
 	'gloop': {
 		'title': 'Gloop',
@@ -72,13 +58,6 @@ var projects = {
 	'circleplanner': {
 		'title': 'Circle Planner',
 		'description': 'A graphical way to represent and plan your whole month on a single spread of paper. The reminders and other schedules can be kept in 12 sheets of any kind of notebook or a seperate notebook',
-		'color': '#FFF',
-		'key': 'graphics'
-	},
-
-	'vaccsure': {
-		'title': 'VaccSure',
-		'description': 'VaccSure is a vaccination packaging solution which ensure the temperature range of the vaccines to be maintained.',
 		'color': '#FFF',
 		'key': 'graphics'
 	},
