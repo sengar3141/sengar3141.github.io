@@ -171,7 +171,7 @@ $(document).ready(function(e) {
 	    sticky_relocate();
 	});
 
-	/*var dir = 1;
+	var dir = 1;
 	var MIN_TOP = 200;
 	var MAX_TOP = 350;
 
@@ -186,6 +186,6 @@ $(document).ready(function(e) {
 	    }
 	    $(window).scrollTop(window_top);
 	    window.setTimeout(autoscroll, 100);
-	}*/
+	}
 
 });
