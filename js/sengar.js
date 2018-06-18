@@ -7,7 +7,7 @@ var projects = {
 	},
 
 	'myhomeoffice': {
-		'title': 'My Office',
+		'title': 'My Home Office',
 		'description': 'A customisable modular furniture solution for professionals needing small office space at their residence. The product is flat pack easy to assemble and customisable with multiple office accessories.',
 		'color': '#F2F1EC',
 		'key': 'products'
