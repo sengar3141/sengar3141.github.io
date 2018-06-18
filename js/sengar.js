@@ -22,7 +22,7 @@ var projects = {
 
 	'takhti': {
 		'title': 'Takhti',
-		'description': 'you get inspired by the amazing portfolios above. For more design portfolio inspirations, please visit bestfolios.com. We are curating and featuring the best designer portfolios.',
+		'description': 'A solution for infrastructural need of school fo rural India',
 		'color': '#CCCCCC',
 		'key': 'ideas'
 	},
