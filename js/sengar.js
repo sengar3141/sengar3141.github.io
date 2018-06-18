@@ -29,7 +29,7 @@ var projects = {
 
 	'ma': {
 		'title': 'Ma',
-		'description': 'Ma is a neonatal incubator designed for rural Indian hospitals. ',
+		'description': 'Ma is a neonatal incubator designed for rural Indian hospitals.',
 		'color': '#FFF',
 		'key': 'products'
 	},
