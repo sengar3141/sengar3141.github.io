@@ -21,7 +21,7 @@ var projects = {
 	},
 
 	'nest': {
-		'title': 'Nest',
+		'title': 'est',
 		'description': 'The project proposes a range of furniture which will have an identity and form inspired by the endangered species of Indian birds. This projects intends to spark a dialogue and sensitivity towards their protection in the minds of the observers.',
 		'color': '#FFF',
 		'key': 'products'
