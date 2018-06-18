@@ -1,5 +1,4 @@
 var projects = {
-	
 	'mylearning': {
 		'title': 'My learnings as a Design Educator',
 		'description': 'My Experince of teaching Desing process to three batches of students of Bachelor of technology (Information Technology and Mathematical Innovations) at Cluster Innovation Center',
@@ -89,7 +88,7 @@ var projects = {
 		'color': '#FFF',
 		'key': 'products'
 	}
-}};
+};
 
 
 
