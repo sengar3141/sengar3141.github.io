@@ -20,39 +20,39 @@ var projects = {
 		'key': 'uxui'
 	},
 
-	'nest': {
-		'title': 'Nest',
-		'description': 'The project proposes a range of furniture which will have an identity and form inspired by the endangered species of Indian birds. This projects intends to spark a dialogue and sensitivity towards their protection in the minds of the observers.',
+	'takhti': {
+		'title': 'Takhti',
+		'description': 'you get inspired by the amazing portfolios above. For more design portfolio inspirations, please visit bestfolios.com. We are curating and featuring the best designer portfolios.',
+		'color': '#CCCCCC',
+		'key': 'ideas'
+	},
+
+	'Ma': {
+		'title': 'Ma, affordable neonatal incubator',
+		'description': 'Ma is a neonatal incubator designed for rural Indian hospitals. The key feature of this incubator is that all the electronics and active hardware elements are housed in a single main Unit which is easy to replace or repair.',
 		'color': '#FFF',
 		'key': 'products'
 	},
 
-	/*'cognitiveablitykit': {
-		'title': 'Cognitive Ability Kit',
-		'description': 'A kit to assess cognitive ability of children for the participants of gifted children project of University of Delhi',
-		'color': '#242424',
-		'key': 'products'
-	},*/
-
-
-	'gloop': {
-		'title': 'Gloop',
-		'description': 'A colaboration between DUDIC and Tamana Foundation to create furnture for hyperactive kids.',
-		'color': 'FFF',
-		'key': 'products'
-	},
-
-	'takhti': {
-		'title': 'Takhti',
-		'description': 'Takhti provides an efficient infrastructural support solution for rural schools in India where we generally finds kids either seating on broken furniture or on ground because the furniture is either vandalized or not available at all.',
-		'color': '#CCCCCC',
-		'key': 'ideas'
-	},
 	'systemd': {
 		'title': 'System D',
 		'description': 'A nominated project at WDCD 2017 Challenge, System D, allows us to build small public buildings those can be converted into safety and rescue centres in the time of disaster like flood, hurricane, sand storms, heavy snow fall, earthquake etc.',
 		'color': '#FFF',
 		'key': 'ideas'
+	},
+
+	'foodpassport': {
+		'title': 'Food Passport',
+		'description': 'A collection of traditional and oldest food of Old Delhi. With the turn of every leaflet you will find the location, history and culinary information about the traditional food vendors of old Delhi.',
+		'color': '#FFF',
+		'key': 'ideas'
+	},
+
+	'gloop': {
+		'title': 'Gloop',
+		'description': 'Gloop is a kid friendly furniture designed for the kids unable to support their body postures or hyperactivity. The chair and table help instructors to conduct early intervention therapy in case of ASD and the furniture is also designed to be aesthetically coherence with in-home environment.',
+		'color': '#FFF',
+		'key': 'products'
 	},
 	
 	'circleplanner': {
@@ -62,12 +62,21 @@ var projects = {
 		'key': 'graphics'
 	},
 
-	'blackbox': {
-		'title': 'Black Box',
-		'description': 'A kit to assist Imfundo teach 7th to 8th standard children programming, electronics, robotics and gadetry.',
+	'nest': {
+		'title': 'Nest',
+		'description': 'A range of furniture which have an identity and form inspired by the endangered species of Indian birds. This projects intends to spark a dialog and sensitivity towards their protection in the minds of the observers.',
+		'color': '#FFF',
+		'key': 'products'
+	},
+
+	'vaccsure': {
+		'title': 'Vaccsure',
+		'description': 'VaccSure is a low cost vaccination packaging solution for use in rural setup which ensures the storage temperature range of the vaccines.',
 		'color': '#FFF',
 		'key': 'products'
 	}
+
+	
 };
 
 
@@ -171,7 +180,7 @@ $(document).ready(function(e) {
 	    sticky_relocate();
 	});
 
-	var dir = 1;
+	/*var dir = 1;
 	var MIN_TOP = 200;
 	var MAX_TOP = 350;
 
@@ -186,6 +195,6 @@ $(document).ready(function(e) {
 	    }
 	    $(window).scrollTop(window_top);
 	    window.setTimeout(autoscroll, 100);
-	}
+	}*/
 
 });
