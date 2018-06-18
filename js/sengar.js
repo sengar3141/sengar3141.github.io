@@ -27,7 +27,7 @@ var projects = {
 		'key': 'ideas'
 	},
 
-	'Ma': {
+	'ma': {
 		'title': 'Ma, affordable neonatal incubator',
 		'description': 'Ma is a neonatal incubator designed for rural Indian hospitals. The key feature of this incubator is that all the electronics and active hardware elements are housed in a single main Unit which is easy to replace or repair.',
 		'color': '#FFF',
