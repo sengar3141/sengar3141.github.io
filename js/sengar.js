@@ -55,12 +55,12 @@ var projects = {
 		'key': 'products'
 	},
 	
-	'circleplanner': {
-		'title': 'Circle Planner',
-		'description': 'A graphical way to represent and plan your whole month on a single spread of paper. The reminders and other schedules can be kept in 12 sheets of any kind of notebook or a seperate notebook',
-		'color': '#FFF',
-		'key': 'graphics'
-	},
+	//'circleplanner': {
+	//	'title': 'Circle Planner',
+	//	'description': 'A graphical way to represent and plan your whole month on a single spread of paper. The reminders and other schedules can be kept in 12 sheets of any kind of notebook or a seperate notebook',
+	/	'color': '#FFF',
+	//	'key': 'graphics'
+	//},
 
 	'nest': {
 		'title': 'Nest',
